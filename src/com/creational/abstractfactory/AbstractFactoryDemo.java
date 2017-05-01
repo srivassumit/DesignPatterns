@@ -4,7 +4,7 @@ package com.creational.abstractfactory;
  * @author sumit
  *
  */
-public class Tester {
+public class AbstractFactoryDemo {
 
 	public static void main(String[] args) {
 		System.out.println("BEGIN TESTING ABSTRACT FACTORY PATTERN");
