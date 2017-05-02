@@ -7,3 +7,4 @@ Source for other Design Pattern Examples:
 * [Chain of Responsibility](https://www.youtube.com/watch?v=jDX6x8qmjbA)
 * [Prototype](https://www.youtube.com/watch?v=AFbZhRL0Uz8)
 * [Flyweight](https://www.youtube.com/watch?v=0vV-R2926ss)
+* [Builder](https://www.youtube.com/watch?v=9XnsOpjclUg)
