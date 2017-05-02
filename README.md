@@ -1,5 +1,8 @@
 # DesignPatterns
 repository for implementing Design patterns in Java
-as descried [Here](https://sourcemaking.com/design_patterns)
+as descried [Here](https://sourcemaking.com/design_patterns).
 
-[Chain of Responsibility](https://www.youtube.com/watch?v=jDX6x8qmjbA)
+Source for other Design Pattern Examples:
+
+* [Chain of Responsibility](https://www.youtube.com/watch?v=jDX6x8qmjbA)
+* [Prototype](https://www.youtube.com/watch?v=AFbZhRL0Uz8)
